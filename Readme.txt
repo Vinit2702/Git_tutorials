@@ -1,1 +1,1 @@
-This is a sample readme file created to test and practice git commands.
+This is a sample readme file created to test and practice git commands. First step done (ie. Committing) now we are seeing if this changes show up in the GitHub repository.
