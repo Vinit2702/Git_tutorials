@@ -1,0 +1,1 @@
+This is a sample readme file created to test and practice git commands.
